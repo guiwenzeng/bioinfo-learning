@@ -1,0 +1,18 @@
+# Bioinfo Learning
+
+This repository is my personal bioinformatics learning journey.
+
+## Goals
+- Learn Python for biology data analysis
+- Understand core bioinformatics concepts
+- Build small projects using real biological datasets
+
+## Structure
+- week1/: basic Python + intro bioinformatics concepts
+- week2/: sequence analysis and data handling
+- data/: datasets used in projects
+
+## Tools
+- Python
+- Jupyter Notebook
+- Git & GitHub
